@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - prints a phrase
  * Return: Always 0
  */
