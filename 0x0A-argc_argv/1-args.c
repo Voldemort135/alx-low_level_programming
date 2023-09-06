@@ -1,10 +1,12 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - prints the number of arguments passed to the program
  * @argc: argument count
  * @argv: argument vectors
- * return:  always 0
+ * 
+ * Return:  always 0
  */
 
 int main(int argc, char **argv)
@@ -30,3 +32,4 @@ int main(int argc, char **argv)
 
 	return (0);
 }
+
