@@ -5,7 +5,7 @@
  * main - prints the name of the program that called it
  * @argc: argument count
  * @argv: argument vector
- * 
+ *
  * Return: always 0
  */
 

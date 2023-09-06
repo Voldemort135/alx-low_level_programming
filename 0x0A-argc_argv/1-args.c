@@ -5,7 +5,7 @@
  * main - prints the number of arguments passed to the program
  * @argc: argument count
  * @argv: argument vectors
- * 
+ *
  * Return:  always 0
  */
 
